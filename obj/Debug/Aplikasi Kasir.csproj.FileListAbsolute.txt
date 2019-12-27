@@ -34,3 +34,4 @@ F:\ali\Aplikasi Destop\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.Properties.Resour
 F:\ali\Aplikasi Destop\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.csproj.GenerateResource.cache
 F:\ali\Aplikasi Destop\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.exe
 F:\ali\Aplikasi Destop\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.pdb
+F:\ali\Aplikasi Destop\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.Merk.resources
